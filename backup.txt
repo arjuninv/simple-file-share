@@ -1,0 +1,1 @@
+[{"file_name": "TensorFlow for DeepLearning", "file_url": "https://www.matroid.com/dlwithtf/chap1-2.pdf", "file_author": "Arjun S"}, {"file_name": "Learning the Pandas Library", "file_url": "https://mcgillmsaa.files.wordpress.com/2018/05/learning-the-pandas-library-python-tools-for-data-munging-analysis-and-visual.pdf", "file_author": "Arjun S"}]
