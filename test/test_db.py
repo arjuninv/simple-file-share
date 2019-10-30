@@ -1,6 +1,6 @@
 import pytest
 def test_add_file():
-    file_name = "test_fileaassdasd_name"
+    file_name = "test_file_name"
     file_url = "test_file_url"
     file_author = "test_file_author"
     def add_file(file_name, file_url, file_author):
