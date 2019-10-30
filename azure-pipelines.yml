@@ -29,6 +29,6 @@ steps:
   displayName: 'Install dependencies'
 
 - script: |
-    pip install pytest
-    python test/test_db.py
+    pip install pytest pytest-azurepipelines
+    python -m pytest tests/
   displayName: 'Test with pytest'
